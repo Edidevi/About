@@ -3,13 +3,18 @@ github_username: Edidevi
 url: https://edidevi.github.io/About/
 
 nav:
-  - label: Work
+
+  - label: Linkedin
+    url: https://www.linkedin.com/in/osaru-e-4011a7192/?skipRedirect=true
+  - label: AWS
+    url: https://edidevi.github.io/AWS/
+  - label: Networking
     url: https://edidevi.github.io/My-Work/
-  - label: About
-    url: https://edidevi.github.io/About/
   - label: GitHub
     url: https://github.com/Edidevi
-
+  - label: Blog
+    url: https://edidevi.github.io/Blog
+    
 footer:
   hosted_on: GitHub Pages
   hosted_url: https://pages.github.com
