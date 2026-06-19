@@ -1,0 +1,21 @@
+title: OsaruEdiae
+github_username: Edidevi
+url: https://edidevi.github.io/About/
+
+nav:
+  - label: Work
+    url: https://edidevi.github.io/My-Work/
+  - label: About
+    url: https://edidevi.github.io/About/
+  - label: GitHub
+    url: https://github.com/Edidevi
+
+footer:
+  hosted_on: GitHub Pages
+  hosted_url: https://pages.github.com
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
