@@ -1,0 +1,26 @@
+title: OsaruEdiae
+description: Junior network engineer based in London, building hands-on skills in enterprise switching, routing, and network design.
+author: Edidevi
+github_username: Edidevi
+
+avatar: https://github.com/user-attachments/assets/5a0e6044-1ba6-4bcc-83d6-d3ba249104c8
+
+nav:
+  - label: About
+    url: https://edidevi.github.io/About/
+  - label: Linkedin
+    url: https://www.linkedin.com/in/osaru-e-4011a7192/
+  - label: Network Labs
+    url: https://edidevi.github.io/My-Work/
+  - label: Blog
+    url: https://edidevi.github.io/Blog/
+
+footer:
+  hosted_on: GitHub Pages
+  hosted_url: https://pages.github.com
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
